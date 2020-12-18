@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 't-box';
+  myVar = 'Haseung was here';
 }
